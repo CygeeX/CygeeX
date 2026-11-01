@@ -6,6 +6,8 @@
 
 专注于现代 Web 开发，探索 AI Agent 与具身智能。
 
+进一步了解我 https://cygee.top/
+
 `React` · `Next.js` · `TypeScript` · `NestJS` · `Python`
 
 ---
