@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Cygee ##
 
-<!--
-**CygeeX/CygeeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**全栈开发 · AI Agent · Web 3D**
 
-Here are some ideas to get you started:
+计算机科学与技术本科在读。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+专注于现代 Web 开发，探索 AI Agent 与具身智能。
+
+`React` · `Next.js` · `TypeScript` · `NestJS` · `Three.js`
+
+---
+
+*保持好奇，持续学习。*
